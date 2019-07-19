@@ -1,9 +1,9 @@
-num= int ( input ( ))
+num= int ( input ( ) )
 if num>0 :
-   print('postive')
+   print('Postive')
 elif  num<0 :
-   print('negative')
+   print('Negative')
 else :
-    print('zero')
+    print('Zero')
 
 
