@@ -1,8 +1,9 @@
-num= int ( input () )
-if num>0:
+num= int ( input ( ))
+if num>0 :
    print('postive')
-elif  num<0:
+elif  num<0 :
    print('negative')
 else :
     print('zero')
+
 
